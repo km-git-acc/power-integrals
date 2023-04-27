@@ -13,7 +13,7 @@ Currently, we have explored integrals of powers of two functions :
 ## Summary of key results
 ### 1) Discovery of new constants that can be interpreted as generalizations of the Ramanujan-Soldner constant (RS=1.451369..)
      | exponent q | root of L(q,x)=0 | root of Zi(q,x)=0 | 
-     |------------|------------------| ------------------|
+     |------------|------------------|-------------------|
      | 0.51       | 1.000669 | 1.000694 |
      | 0.55       | 1.012343 | 1.012832 |
      | 0.6        | 1.039038 | 1.040602 |
