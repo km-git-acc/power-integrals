@@ -23,9 +23,9 @@ Currently, we have explored integrals of powers of two functions :
      | 2.0        | 3.846468 | 2.476428 |
      | 2.5        | 6.319568 | 2.746947 |
      | 4.5        | 46.451592| 3.579452 |
-   
-   In the L case, we also observe root_(q+1)/root_q -> exp(1) = 2.71828.. as q gets larger 
-   In the Zi case, we observe root_(q+1)/root_q -> 1 as q gets larger 
+     |------------|----------|----------|
+     In the L case, we also observe root_(q+1)/root_q -> exp(1) = 2.71828.. as q gets larger
+     In the Zi case, we observe root_(q+1)/root_q -> 1 as q gets larger 
    
 ### 2) Analytical continuation and roots
   We analytically continue L(q,z) and Zi(q,z) to the complex plzne z and again observe interesting properties. For eg. real(L(q,z)) shows q negative roots for q integer, apart from the one root on the positive x axis that was shown earlier, hence a total of q+1 roots.
