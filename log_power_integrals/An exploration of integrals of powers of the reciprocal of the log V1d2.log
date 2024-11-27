@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  7 NOV 2024 14:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  25 NOV 2024 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,69 +568,76 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 129.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 141.
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-36.
+48.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
-) [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<contour_diagram_label2.png, id=14, 507.8975pt x 192.72pt>
+)
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+<contour_diagram_label2.png, id=17, 507.8975pt x 192.72pt>
 File: contour_diagram_label2.png Graphic file (type png)
 <use contour_diagram_label2.png>
-Package pdftex.def Info: contour_diagram_label2.png  used on input line 187.
+Package pdftex.def Info: contour_diagram_label2.png  used on input line 199.
 (pdftex.def)             Requested size: 226.48395pt x 85.93803pt.
- [2 <./contour_diagram_label2.png>]
-<l22_auc.png, id=20, 531.9875pt x 319.1925pt>
+
+[3 <./contour_diagram_label2.png>]
+<l22_auc.png, id=23, 531.9875pt x 319.1925pt>
 File: l22_auc.png Graphic file (type png)
 <use l22_auc.png>
-Package pdftex.def Info: l22_auc.png  used on input line 219.
+Package pdftex.def Info: l22_auc.png  used on input line 231.
 (pdftex.def)             Requested size: 226.48395pt x 135.88635pt.
- [3 <./l22_auc.png>] [4] [5] [6]
-<ly2_continuous.jpg, id=35, 1513.655pt x 915.42pt>
+ [4 <./l22_auc.png>] [5] [6] [7]
+<ly2_continuous.jpg, id=39, 1513.655pt x 915.42pt>
 File: ly2_continuous.jpg Graphic file (type jpg)
 <use ly2_continuous.jpg>
-Package pdftex.def Info: ly2_continuous.jpg  used on input line 445.
+Package pdftex.def Info: ly2_continuous.jpg  used on input line 457.
 (pdftex.def)             Requested size: 317.07614pt x 191.75499pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-<residue_curve.jpg, id=40, 1489.565pt x 923.45pt>
+ [8]
+<residue_curve.jpg, id=43, 1489.565pt x 923.45pt>
 File: residue_curve.jpg Graphic file (type jpg)
 <use residue_curve.jpg>
-Package pdftex.def Info: residue_curve.jpg  used on input line 450.
+Package pdftex.def Info: residue_curve.jpg  used on input line 462.
 (pdftex.def)             Requested size: 317.07614pt x 196.56517pt.
 
-[8 <./ly2_continuous.jpg> <./residue_curve.jpg>]
-<logpowrealroots.png, id=44, 626.34pt x 337.26pt>
+[9 <./ly2_continuous.jpg> <./residue_curve.jpg>]
+<logpowrealroots.png, id=47, 626.34pt x 337.26pt>
 File: logpowrealroots.png Graphic file (type png)
 <use logpowrealroots.png>
-Package pdftex.def Info: logpowrealroots.png  used on input line 494.
+Package pdftex.def Info: logpowrealroots.png  used on input line 506.
 (pdftex.def)             Requested size: 226.48395pt x 121.95384pt.
- [9 <./logpowrealroots.png>]
-[10]
+ [10 <./logpowrealroots.png>]
+[11]
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
- [11]
+ [12]
 Underfull \vbox (badness 4217) has occurred while \output is active []
 
- [12]
+ [13]
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 673.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 685.
 LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
-678.
+690.
 
 (/usr/local/texlive/2022/texmf-dist/tex/latex/txfonts/ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
 )
 Underfull \vbox (badness 3547) has occurred while \output is active []
 
- [13]
+ [14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-[15] [16]
+ [15]
+[16] [17]
 (./An exploration of integrals of powers of the reciprocal of the log V1d2.aux)
  ) 
 Here is how much of TeX's memory you used:
@@ -654,10 +661,10 @@ tt.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
 sr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
 exlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on "An exploration of integrals of powers of the reciprocal of t
-he log V1d2.pdf" (16 pages, 431638 bytes).
+he log V1d2.pdf" (17 pages, 432459 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
